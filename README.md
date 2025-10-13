@@ -33,5 +33,5 @@
 <ul>
   <li>Email: <a href="mailto:amoorzheyuyyds@gmail.com">amoorzheyuyyds@gmail.com</a></li>
   <li>WeChat: <span>amoorzheyu</span></li>
-  <li>QQ: <span>477894939@qq.com</span></li>
+  <li>QQ: <span>477894939</span></li>
 </ul>
