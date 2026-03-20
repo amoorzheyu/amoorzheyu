@@ -1,6 +1,6 @@
 <!-- Personal Introduction -->
 <h3>Hi, I'm Amoorzheyu 👋</h3>
-<p>致力于成为懂AI的新时代嵌入式软件工程师，目前是 <a href="https://gongjiyun.com">共绩算力</a> AI产品实习生</p>
+<p>「AI PM｜产品理想主义者｜让AI不止聪明，还要懂美」，目前是 <a href="https://gongjiyun.com">共绩算力</a> AI产品实习生</p>
 
 <!-- Skills and Technologies -->
 <h3>I use</h3>
