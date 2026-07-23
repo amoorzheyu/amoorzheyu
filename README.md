@@ -1,6 +1,6 @@
 <!-- Personal Introduction -->
 <h3>Hi, I'm Amoorzheyu 👋</h3>
-<p>「产品理想主义者｜以AI为杠杆，撬动极致用户体验与产品落地」，目前是 <a href="https://gongjiyun.com">共绩算力</a> AI产品经理</p>
+<p>「产品理想主义者｜以AI为杠杆，撬动极致用户体验与产品落地」，目前是 <a href="https://gongjiyun.com">共绩算力</a> 产品经理</p>
 
 <!-- Skills and Technologies -->
 <h3>I use</h3>
